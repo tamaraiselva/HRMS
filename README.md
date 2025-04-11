@@ -57,8 +57,8 @@ A comprehensive Human Resource Management System built with Streamlit and MongoD
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd hr-management-system
+git clone [[repository-url]](https://github.com/tamaraiselva/HRMS)
+cd HRMS
 ```
 
 2. Install dependencies:
